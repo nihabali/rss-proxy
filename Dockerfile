@@ -10,4 +10,4 @@ ENV APP_AUTHENTICATION=authRoot \
     AUTH_TOKEN_ANONYMOUS_VALIDFORDAYS=3 \
     APP_ROOT_EMAIL=admin@localhost \
     APP_ROOT_SECRET_KEY=password
-COPY packages/playground/dist/ ./public
+#COPY packages/playground/dist/ ./public
